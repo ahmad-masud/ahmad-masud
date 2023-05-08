@@ -1,9 +1,10 @@
-# Hello! I'm Ahmad, I'm a developer 👋
+# Hello! I'm Ahmad, I'm a creator 👋
 
 ## A little about me! 
 - CS Student at SFU 🌱
 - Web developer 🖥️
 - I strive to create something great 🥇
+- I can crank 90s 🧝🔫🦹‍♂️
 
 ## How to reach me 📞
 [![LinkedIn](https://img.shields.io/badge/ahmadmasud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadmasud/)
