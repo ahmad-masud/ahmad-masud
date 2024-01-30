@@ -32,6 +32,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Certifications 🥇
-[Spring Boot.pdf](https://github.com/ahmad-masud/ahmad-masud/files/14104613/Spring.Boot.pdf)
+[Spring Boot](https://github.com/ahmad-masud/ahmad-masud/files/14104613/Spring.Boot.pdf)
 
 
