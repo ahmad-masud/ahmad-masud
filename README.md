@@ -10,10 +10,6 @@
 [![website](https://img.shields.io/badge/ahmadmasud.xyz-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ahmadmasud.xyz)
 [![email](https://img.shields.io/badge/-ahmadmasud25@hotmail.com-0073C8?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ahmadmasud25@hotmail.com)
 
-## Github Stats
-[![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-masud)](https://github.com/ahmad-masud/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-masud)](https://github.com/ahmad-masud/github-readme-stats)
-
 ## Qualifications 🏅
 ### Languages ✍️
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
