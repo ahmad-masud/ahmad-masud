@@ -12,6 +12,7 @@
 
 ## Github Stats
 [![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-masud)](https://github.com/ahmad-masud/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-masud)](https://github.com/ahmad-masud/github-readme-stats)
 
 ## Qualifications 🏅
 ### Languages ✍️
