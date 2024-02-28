@@ -33,9 +33,3 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### Certifications 🥇
-- [Relational Database and SQL Essentials](https://github.com/ahmad-masud/ahmad-masud/files/14104754/Relational.Database.and.SQL.Essentials.pdf)
-- [Spring Boot](https://github.com/ahmad-masud/ahmad-masud/files/14104613/Spring.Boot.pdf)
-
-
