@@ -2,7 +2,7 @@
 
 ## A little about me! 
 - CS Student at SFU 🌱
-- Interested in Machine Learning, Cloud Computing and Software Developement 🖥️
+- Interested in Software Developement and Machine Learning 🖥️
 - I strive to make an impact in everything I pursue 🥇
 
 ## How to reach me 📞
