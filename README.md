@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmad Masud</h1>
 <h3 align="center">A curious Software Engineer in Canada</h3>
 
-- 🔭 I’m currently working on [CompCode](compcode.tech)
+- 🔭 I’m currently working on [CompCode](https://compcode.tech)
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [ahmadmasud.info](ahmadmasud.info)
+- 👨‍💻 All of my projects are available at [ahmadmasud.info](https://ahmadmasud.info)
 
-- 📫 How to reach me **ahmadmasud25@hotmail.com**
+- 📫 How to reach me [ahmadmasud25@hotmail.com](mailto:ahmadmasud25@hotmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
