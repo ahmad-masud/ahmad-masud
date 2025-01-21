@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CompCode](https://compcode.tech)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **.NET** and **C#**
 
 - 👨‍💻 All of my projects are available at [ahmadmasud.info](https://ahmadmasud.info)
 
