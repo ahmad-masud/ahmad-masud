@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Masud</h1>
 <h3 align="center">A Software Engineer in Canada</h3>
 
-- 🔭 I’m currently working on [CompCode](https://compcode.tech)
+- 🔭 I’m currently working on [AppliSense](https://applisense.vercel.app)
 
 - 🌱 I’m currently learning **.NET** and **C#**
 
