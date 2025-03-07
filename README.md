@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AppliSense](https://applisense.vercel.app)
 
-- 🌱 I’m currently learning **.NET** and **C#**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [ahmadmasud.info](https://ahmadmasud.info)
 
