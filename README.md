@@ -46,6 +46,7 @@
 <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="40"></a>
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="40"></a>
 <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="40"></a>
+<a href="https://https://fastapi.tiangolo.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="FastAPI" height="40"></a>
 </p>
 
 ## Database
