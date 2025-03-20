@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Masud</h1>
 <h3 align="center">A Software Engineer in Canada</h3>
 
-- 🔭 I’m currently working on [AppliSense](https://applisense.vercel.app)
+- 🔭 I’m currently working on [SurfMarc](https://github.com/ahmad-masud/SurfMarc)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👨‍💻 All of my projects are available at [ahmadmasud.info](https://ahmadmasud.info)
 
