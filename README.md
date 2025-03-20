@@ -43,7 +43,7 @@
 ## Backend Development
 <p align="left">
 <a href="https://nodejs.org" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703155483443/e42a7be2-890a-4bd2-accf-306e53ccebbd.png" alt="Node.js" height="40"></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://www.manektech.com/storage/developer/1646733543.webp" alt="Express.js" height="40"></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js" height="40"></a>
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="40"></a>
 <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="40"></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="FastAPI" height="40"></a>
