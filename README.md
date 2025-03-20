@@ -23,7 +23,7 @@
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"></a>
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40"></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40"></a>
-<a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" height="40"></a>
+<a href="https://golang.org" target="_blank"><img src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" alt="Go" height="40"></a>
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"></a>
@@ -42,8 +42,8 @@
 
 ## Backend Development
 <p align="left">
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40"></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="40"></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703155483443/e42a7be2-890a-4bd2-accf-306e53ccebbd.png" alt="Node.js" height="40"></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://www.manektech.com/storage/developer/1646733543.webp" alt="Express.js" height="40"></a>
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="40"></a>
 <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="40"></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="FastAPI" height="40"></a>
