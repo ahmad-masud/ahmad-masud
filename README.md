@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SurfMarc](https://github.com/ahmad-masud/SurfMarc)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Raft Consensus Algorithm**
 
 - 👨‍💻 All of my projects are available at [ahmadmasud.info](https://ahmadmasud.info)
 
