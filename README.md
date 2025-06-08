@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Masud</h1>
 <h3 align="center">A Software Engineer in Canada</h3>
 
-- 🔭 I’m currently working on [SurfMarc](https://github.com/ahmad-masud/SurfMarc)
-
 - 🌱 I’m currently learning **Raft Consensus Algorithm**
 
-- 👨‍💻 All of my projects are available at [ahmadmasud.info](https://ahmadmasud.info)
-
-- 📫 How to reach me [ahmadmasud25@hotmail.com](mailto:ahmadmasud25@hotmail.com)
+- 📫 How to reach me [ahmadmasud2027@gmail.com](mailto:ahmadmasud2027@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
